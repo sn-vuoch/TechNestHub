@@ -38,7 +38,7 @@ nav {
   color: #e5e7eb;
 }
 
-/* Hero */
+/* Hero Section */
 .hero {
   background-color: #1f2937;
   padding: 80px 150px;
@@ -79,4 +79,43 @@ nav {
   width: 400px;
   height: auto;
   border-radius: 10px;
+}
+
+/* Information Section */
+.info {
+  padding: 70px 200px;
+}
+
+.info-title {
+  text-align: center;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  margin-bottom: 60px;
+}
+
+.info-container {
+  display: flex;
+  gap: 50px;
+}
+
+.info-container img {
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  padding: 5px;
+  width: 100px;
+  height: auto;
+}
+
+.info-container div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 25%;
+}
+
+.info-container p {
+  text-align: center;
+
 }
