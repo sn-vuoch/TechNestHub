@@ -157,7 +157,6 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-
 }
 
 .cta-left-box {
@@ -184,4 +183,12 @@ nav {
   border: 2px solid #fff;
   border-radius: 10px;
   cursor: pointer;
+}
+
+footer {
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  background-color: #1f2937;
+  padding: 30px 0;
 }
