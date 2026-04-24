@@ -64,7 +64,7 @@ nav {
   margin-bottom: 15px;
 }
 
-.sign-up-btn {
+.shop-now-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   background-color: #3882f6;
@@ -143,4 +143,45 @@ nav {
   color: #1f2937;
   font-weight: 500;
   margin-left: auto;
+}
+
+/* Call To Action Section */
+.call-to-action {
+  padding: 80px 150px;
+}
+
+.call-to-action-container {
+  background-color: #3882f6;
+  padding: 50px 150px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.cta-left-box {
+  width: 75%;
+}
+
+.cta-title {
+  color: #f9faf8;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.cta-description {
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.cta-shop-now-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  background-color: #3882f6;
+  color: #fff;
+  padding: 10px 30px;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  cursor: pointer;
 }
