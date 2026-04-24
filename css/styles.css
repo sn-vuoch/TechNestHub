@@ -83,7 +83,7 @@ nav {
 
 /* Information Section */
 .info {
-  padding: 70px 200px;
+  padding: 120px 200px;
 }
 
 .info-title {
@@ -117,5 +117,30 @@ nav {
 
 .info-container p {
   text-align: center;
+}
 
+/* Quote Section */
+.quote {
+  background-color: #e5e7eb;
+  padding: 80px 150px;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+}
+
+.quote-description {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-author {
+  color: #1f2937;
+  font-weight: 500;
+  margin-left: auto;
 }
