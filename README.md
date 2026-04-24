@@ -7,11 +7,10 @@ Build a static website called TechNest Hub for shopping and browsing information
 - Practice Flexbox
 
 ## Acknowledge
-The Odin Project
+- The Odin Project
 
 ## Image credit
-Author: Stanislav Kondratiev
-Contact: https://www.pexels.com/@technobulka/
+Author: Stanislav Kondratiev, Contact: https://www.pexels.com/@technobulka/
 
 
 
